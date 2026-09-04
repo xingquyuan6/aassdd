@@ -1,5 +1,5 @@
 {
-  "a": "https://new.yourdomain.com",
-  "b": "https://backup.yourdomain.com",
-  "c": "1.0.2"
+    "v": 1,
+    "iv": "3BZNpE6npjeDHacZ",
+    "data": "IN9z8Ng6PXZDGde7oJ94DWrbaJ03lsHDGrbAb2L9KWlUmsasMRCDrwv1JrgUkE0vxVPz1SO+Rjao0b3hcYZJ2Qo+aoi+sIWjipnzHBRZ9ZBJFA=="
 }
